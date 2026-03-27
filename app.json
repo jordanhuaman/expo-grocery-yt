@@ -21,7 +21,7 @@
       "package": "com.jordanalexander.expotodolist"
     },
     "web": {
-      "output": "static",
+      "output": "server",
       "favicon": "./assets/images/favicon.png",
       "bundler": "metro"
     },
