@@ -50,7 +50,7 @@ export default function InsightsStatsSection() {
         </View>
         <View className="mt-3 overflow-hidden rounded-full bg-secondary">
           <View
-            className="h-3 rounded-full bg-ring"
+            className="h-3 rounded-full bg-red"
             style={{ width: `${Math.max(2, completionRate)}%` }}
           />
         </View>
